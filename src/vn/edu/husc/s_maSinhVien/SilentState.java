@@ -8,11 +8,9 @@ public class SilentState implements State {
 
     @Override
     public void onSMSReceived() {
-        // Không làm gì
     }
 
     @Override
     public void onSystemNotification() {
-        // Không làm gì
     }
 }
